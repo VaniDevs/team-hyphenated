@@ -1,1 +1,1 @@
-Team @hypenated's VanHacks project for Mealshare
+Team @hyphenated's VanHacks project for Mealshare
